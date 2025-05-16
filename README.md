@@ -9,7 +9,7 @@ Passionate about building software solutions through real-world academic project
 
 - **Programming Languages:** C++, JavaScript, HTML, CSS
 - **Databases:** PostgreSQL, MS Access
-- **Tools & Platforms:** Visual Studio Community, Visual Studio Code, Oracle APEX, Visual Paradigm, Git & GitHub
+- **Tools & Platforms:** Visual Studio Community, Visual Studio Code, Oracle APEX, Visual Paradigm, IBM WebSphere Business Modeler, Git & GitHub
 - **Design & Modeling:** UML, BPMN, DFD, Entity-Relationship Modeling, System Architecture
 - **Concepts & Practices:** REST API, CRUD, SQL scripting
 

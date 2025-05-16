@@ -1,7 +1,7 @@
 # 👋 Hi there, I am Petar Jonjić!
 
 Student of Information and Business Systems at the Faculty of Organization and Informatics, University of Zagreb.  
-Passionate about building software solutions through real-world academic projects, teamwork and iterative learning.  
+Passionate about building software solutions through real-world projects, teamwork and iterative learning.  
 
 ---
 

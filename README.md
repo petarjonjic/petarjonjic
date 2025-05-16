@@ -7,7 +7,7 @@ Passionate about building software solutions through real-world academic project
 
 ## Technical Skills
 
-- **Programming Languages:** C++, JavaScript, HTML, CSS, PL/SQL
+- **Programming Languages:** C++, JavaScript, HTML, CSS
 - **Databases:** PostgreSQL, MS Access
 - **Tools & Platforms:** Visual Studio Community, Visual Studio Code, Oracle APEX, Visual Paradigm, Git & GitHub
 - **Design & Modeling:** UML, BPMN, DFD, Entity-Relationship Modeling, System Architecture

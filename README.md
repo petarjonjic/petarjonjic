@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi there, I am Petar Jonjić!
 
-<!--
-**petarjonjic/petarjonjic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student of Information and Business Systems at the Faculty of Organization and Informatics, University of Zagreb.  
+Passionate about building software solutions through real-world academic projects, teamwork and iterative learning.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming Languages:** C++, JavaScript, HTML, CSS, PL/SQL
+- **Databases:** PostgreSQL, MS Access
+- **Tools & Platforms:** Visual Studio Community, Visual Studio Code, Oracle APEX, Visual Paradigm, Git & GitHub
+- **Design & Modeling:** UML, BPMN, DFD, Entity-Relationship Modeling, System Architecture
+- **Concepts & Practices:** REST API, CRUD, SQL scripting
+
+---
+
+## Soft Skills
+
+- Communication
+- Team Collaboration
+- Adaptability & Reliability
+- Problem Solving
+- Analytical Thinking
+- Time Management
+
+---
+
+## Languages
+
+- **Croatian** – Native  
+- **English** – Proficient
+
+---
+
+## Projects
+
+### [Volunteer Management Software](https://github.com/petarjonjic/Volunteer-Management-Software)
+Web application for managing volunteer activities and task assignment.  
+Currently developing in C# as a desktop application, including software requirements, UML models, and reporting.
+
+### [AI Tools Showcase](https://github.com/petarjonjic/AI-Tools-Showcase)
+Frontend web application showcasing popular AI tools like ChatGPT and Gemini.  
+Created with HTML & CSS, validated for responsiveness and accessibility.
+
+### [JB Modelarija System Documentation](https://github.com/petarjonjic/jb-modelarija-system)
+Full-featured information system designed for the company JB Modelarija Blažeka d.o.o.  
+Includes Oracle APEX implementation, RESTful services, BPMN, ERA, and SQL export.
+
+---
+
+## Education
+
+**Major in Information and Business Systems**  
+Faculty of Organization and Informatics, University of Zagreb  
+2023 – Present (Expected graduation: 2026)
+
+---

@@ -51,8 +51,9 @@ Includes Oracle APEX implementation, RESTful services, BPMN, ERA, and SQL export
 
 ## Education
 
-**Major in Information and Business Systems**  
-Faculty of Organization and Informatics, University of Zagreb  
-2023 – Present (Expected graduation: 2026)
+**University Bachelor of Informatics (expected 2026)**
+Major in Information and Business Systems
+Faculty of Organization and Informatics, University of Zagreb
+2023 – Present
 
 ---

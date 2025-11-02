@@ -7,7 +7,7 @@ Passionate about building software solutions through real-world projects, teamwo
 
 ## Technical Skills
 
-- **Programming Languages:** C++, JavaScript, HTML, CSS
+- **Programming Languages:** C++, JavaScript, HTML, CSS, Python
 - **Databases:** PostgreSQL, MS Access
 - **Tools & Platforms:** Visual Studio Community, Visual Studio Code, Oracle APEX, Visual Paradigm, IBM WebSphere Business Modeler, Git & GitHub
 - **Design & Modeling:** UML, BPMN, DFD, Entity-Relationship Modeling, System Architecture
